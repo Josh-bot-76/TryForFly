@@ -1,4 +1,4 @@
-# Introduction to GitHub
+# TryToFly
 
 <!-- ![](https://github.com/Josh-bot-76/TryForFly/actions/workflows/0-start-exercise.yml/badge.svg) -->
 ![](https://github.com/Josh-bot-76/TryForFly/actions/workflows/1-create-a-branch.yml/badge.svg)
